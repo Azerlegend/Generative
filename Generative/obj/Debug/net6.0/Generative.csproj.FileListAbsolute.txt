@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code\Generative\Generative\bin\Debug\net6.0\Generative.exe
+C:\Users\user\Desktop\code\Generative\Generative\bin\Debug\net6.0\Generative.deps.json
+C:\Users\user\Desktop\code\Generative\Generative\bin\Debug\net6.0\Generative.runtimeconfig.json
+C:\Users\user\Desktop\code\Generative\Generative\bin\Debug\net6.0\Generative.dll
+C:\Users\user\Desktop\code\Generative\Generative\bin\Debug\net6.0\Generative.pdb
+C:\Users\user\Desktop\code\Generative\Generative\obj\Debug\net6.0\Generative.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code\Generative\Generative\obj\Debug\net6.0\Generative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code\Generative\Generative\obj\Debug\net6.0\Generative.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code\Generative\Generative\obj\Debug\net6.0\Generative.AssemblyInfo.cs
+C:\Users\user\Desktop\code\Generative\Generative\obj\Debug\net6.0\Generative.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code\Generative\Generative\obj\Debug\net6.0\Generative.dll
+C:\Users\user\Desktop\code\Generative\Generative\obj\Debug\net6.0\refint\Generative.dll
+C:\Users\user\Desktop\code\Generative\Generative\obj\Debug\net6.0\Generative.pdb
+C:\Users\user\Desktop\code\Generative\Generative\obj\Debug\net6.0\Generative.genruntimeconfig.cache
+C:\Users\user\Desktop\code\Generative\Generative\obj\Debug\net6.0\ref\Generative.dll
